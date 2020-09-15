@@ -1,3 +1,3 @@
 module.exports={
-MongoURI:'mongodb+srv://allen:allen123456@noderegistration.gwjlp.mongodb.net/noderegistration?retryWrites=true&w=majority'
+MongoURI:'mongodb+srv://db_name:passsword@noderegistration.gwjlp.mongodb.net/noderegistration?retryWrites=true&w=majority'
 }
